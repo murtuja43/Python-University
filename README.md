@@ -1,4 +1,3 @@
 # Python-Problem-Solve
 <h1>Questions</h1>
-<h3>1.	Given the side of a square aa. Find its perimeter P=4⋅aP = 4 \cdot a.![image](https://github.com/user-attachments/assets/e2fc7ff7-e139-4773-b414-fd260d9d0f9c)
-</h3>
+<img width="774" alt="Screenshot 2025-02-16 at 23 57 44" src="https://github.com/user-attachments/assets/d746c69c-acb3-4a0f-a2d6-3543c3348f50" />
