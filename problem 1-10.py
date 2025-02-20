@@ -112,3 +112,16 @@ print("Area of the ring:", S3)
 x1 = int(input("Enter the first point x1: "))
 x2 = int(input("Enter the second point x2: "))
 print("Distance between the points:", abs(x2 - x1))
+
+
+
+#problem 19
+'''facing some problem'''
+
+
+#problem 22
+A = int(input("Enter value A: "))
+B = int(input("Enter value B: "))
+A , B = B , A
+print("New value of A:", A)
+print("New value of B:", B)
