@@ -119,9 +119,28 @@ print("Distance between the points:", abs(x2 - x1))
 '''facing some problem'''
 
 
+
 #problem 22
 A = int(input("Enter value A: "))
 B = int(input("Enter value B: "))
 A , B = B , A
 print("New value of A:", A)
 print("New value of B:", B)
+
+
+
+#problem 25
+x = int(input("Enter the number x: "))
+y = 3 * (x ** 6) - 6 * (x ** 2) - 7
+print("The value of the function x = 3x^2-6x^2-7 is: ", y)
+
+
+
+#problem 28
+A = int(input("Enter number A: "))
+A2 = A * A
+A3 = A2 * A
+A5 = A3 * A2
+A10 = A5 * A5
+A15 = A10 * A5
+print(A2, A3, A5, A10, A15)
