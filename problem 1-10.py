@@ -144,3 +144,23 @@ A5 = A3 * A2
 A10 = A5 * A5
 A15 = A10 * A5
 print(A2, A3, A5, A10, A15)
+
+
+
+#problem 31
+T = int(input("Temperature in Fahrenheit: "))
+C = (T - 32) / 1.8
+print("Temperature in Celsius:", C)
+
+
+
+#problem 34
+X = int(input("Enter the candy amount in kg: "))
+A = int(input("Enter the price of candy: "))
+Y = int(input("Enter the chocolate amount in kg: "))
+B = int(input("Enter the price of chocolate: "))
+
+print("Candy price per kg:", A / X)
+print("Chocolate price per kg:", B / Y)
+print("Price Difference:", (B / Y) - (A / X))
+
