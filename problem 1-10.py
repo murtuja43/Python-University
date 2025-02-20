@@ -116,7 +116,16 @@ print("Distance between the points:", abs(x2 - x1))
 
 
 #problem 19
-'''facing some problem'''
+x1 = int(input("Enter x1: "))
+y1 = int(input("Enter y1: "))
+x2 = int(input("Enter x2: "))
+y2 = int(input("Enter y2: "))
+
+width = x2 - x1  
+height = y2 - y1  
+perimeter = 2 * (width + height)  
+area = width * height  
+print(perimeter, area)
 
 
 
@@ -190,3 +199,7 @@ x = (C1 * B2 - C2 * B1) / D
 y = (A1 * C2 - A2 * C1) / D  
 
 print(x, y)
+
+
+
+# Problems solved!
