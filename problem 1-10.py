@@ -164,3 +164,29 @@ print("Candy price per kg:", A / X)
 print("Chocolate price per kg:", B / Y)
 print("Price Difference:", (B / Y) - (A / X))
 
+
+
+#problem 37
+S = int(input("Enter initial distance S (km): "))
+V1 = int(input("Enter speed of first car V1 (km/h): "))
+V2 = int(input("Enter speed of second car V2 (km/h): "))
+T = int(input("Enter time T (hours): "))
+
+new_distance = (S - T * (V1 + V2))
+print(new_distance)
+
+
+
+#problem 40
+A1 = int(input("Enter A1: "))
+B1 = int(input("Enter B1: "))
+C1 = int(input("Enter C1: "))
+A2 = int(input("Enter A2: "))
+B2 = int(input("Enter B2: "))
+C2 = int(input("Enter C2: "))
+
+D = A1 * B2 - A2 * B1  
+x = (C1 * B2 - C2 * B1) / D  
+y = (A1 * C2 - A2 * C1) / D  
+
+print(x, y)
