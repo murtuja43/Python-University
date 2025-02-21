@@ -124,6 +124,7 @@ ones = num % 10
 new_number = 
 
 
-24-30
 
-1-40 (step 4)
+# hometask
+# integer :24-30
+# Boolean :1-40 (step 4)
