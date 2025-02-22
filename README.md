@@ -10,6 +10,6 @@
 
 <h1>Integer Questions (30)</h1>
 <h3>Solved the questions 1-16, </h2>
-<img width="770" alt="Screenshot 2025-02-22 at 14 45 54" src="https://github.com/user-attachments/assets/d2d61289-30e3-479a-bac1-dfffb6066067" />
-<img width="770" alt="Screenshot 2025-02-22 at 14 46 25" src="https://github.com/user-attachments/assets/207d8c3a-7d9e-4244-b825-db59db6bc874" />
-<img width="770" alt="Screenshot 2025-02-22 at 14 46 43" src="https://github.com/user-attachments/assets/1ec9b2df-4832-4fcc-9fcb-748cf8dbd27c" />
+<img width="760" alt="Screenshot 2025-02-22 at 15 31 39" src="https://github.com/user-attachments/assets/f7b30735-1441-4f02-80d0-0d597e46e68b" />
+<img width="760" alt="Screenshot 2025-02-22 at 15 32 10" src="https://github.com/user-attachments/assets/e4084052-13c0-4d9d-ad35-b716d978a856" />
+<img width="760" alt="Screenshot 2025-02-22 at 15 32 32" src="https://github.com/user-attachments/assets/7977e429-186d-41cf-85fe-548e9a8726b6" />
