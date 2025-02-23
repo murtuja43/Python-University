@@ -9,7 +9,7 @@
 <img width="774" alt="Screenshot 2025-02-20 at 19 03 21" src="https://github.com/user-attachments/assets/4cb17df1-db9b-46f9-9fd4-085238445d4f" />
 
 <h1>Integer Questions (30)</h1>
-<h3>Solved the questions 1-16, </h2>
+<h3>Solved the questions 1-16, 34-30 </h2>
 <img width="760" alt="Screenshot 2025-02-22 at 15 31 39" src="https://github.com/user-attachments/assets/f7b30735-1441-4f02-80d0-0d597e46e68b" />
 <img width="760" alt="Screenshot 2025-02-22 at 15 32 10" src="https://github.com/user-attachments/assets/e4084052-13c0-4d9d-ad35-b716d978a856" />
 <img width="760" alt="Screenshot 2025-02-22 at 15 32 32" src="https://github.com/user-attachments/assets/7977e429-186d-41cf-85fe-548e9a8726b6" />
