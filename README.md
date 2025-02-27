@@ -13,3 +13,10 @@
 <img width="760" alt="Screenshot 2025-02-22 at 15 31 39" src="https://github.com/user-attachments/assets/f7b30735-1441-4f02-80d0-0d597e46e68b" />
 <img width="760" alt="Screenshot 2025-02-22 at 15 32 10" src="https://github.com/user-attachments/assets/e4084052-13c0-4d9d-ad35-b716d978a856" />
 <img width="760" alt="Screenshot 2025-02-22 at 15 32 32" src="https://github.com/user-attachments/assets/7977e429-186d-41cf-85fe-548e9a8726b6" />
+
+<h1>Boolean Questions (30)</h1>
+<h3>Solved the questions 0, </h2>
+<img width="710" alt="Screenshot 2025-02-27 at 23 22 18" src="https://github.com/user-attachments/assets/2ac2503b-961a-4853-8569-1250d0e3f5d5" />
+<img width="764" alt="Screenshot 2025-02-27 at 23 22 33" src="https://github.com/user-attachments/assets/deb39d6d-9f57-4c08-91a4-3d177d8b8c09" />
+<img width="762" alt="Screenshot 2025-02-27 at 23 22 46" src="https://github.com/user-attachments/assets/fb5670b8-9d47-4efd-9936-0827930943cf" />
+
