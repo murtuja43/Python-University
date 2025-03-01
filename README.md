@@ -20,7 +20,7 @@
 <img width="760" alt="Screenshot 2025-02-27 at 23 22 33" src="https://github.com/user-attachments/assets/deb39d6d-9f57-4c08-91a4-3d177d8b8c09" />
 <img width="760" alt="Screenshot 2025-02-27 at 23 22 46" src="https://github.com/user-attachments/assets/fb5670b8-9d47-4efd-9936-0827930943cf" />
 
-<h1>If Questions (1-40)</h1>
+<h1>If Questions (1-30)</h1>
 <h3>Solved the questions </h2>
 <img width="705" alt="Screenshot 2025-03-01 at 13 17 31" src="https://github.com/user-attachments/assets/65c6cda6-7cd7-492c-aa37-a56912ef06e1" />
 <img width="705" alt="Screenshot 2025-03-01 at 13 17 45" src="https://github.com/user-attachments/assets/88670081-533a-4b13-b530-5b2bebc702ac" />
