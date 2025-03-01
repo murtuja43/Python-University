@@ -116,15 +116,72 @@ new_number = (tens * 100) + (hundreds * 10) + ones
 print(new_number)
 
 
+
 # problem 16
 num = int(input("Enter a three digit number: "))
 hundreds = num // 100
 tens = (num // 10) % 10
 ones = num % 10
-new_number = 
+new_number = (hundreds * 100) + (ones * 10) + tens
+print(new_number)
+
+
+# problem 24
+K = int(input("Write a number between 1-365: "))
+day_number = (K + 0) % 7
+days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+print(f"The {K}th day is: {days[day_number]}")
+
+
+# problem 25
+K = int(input("Write a number between 1-365: "))
+day_number = (K + 3) % 7
+days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+print(f"The {K}th day is: {days[day_number]}")
 
 
 
-# hometask
-# integer :24-30
-# Boolean :1-40 (step 4)
+# problem 26
+K = int(input("Write a number between 1-365: "))
+# jan 1st is Tuesday
+day_number = ((K + 1 - 1) % 7) + 1
+days = ["", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+print(f"The {K}th day is: {days[day_number]}")
+
+
+# problem 27
+# jan 1st is Saturday
+K = int(input("Write a number between 1-365: "))
+days = ["", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+day_number = ((K + 5 - 1) % 7) + 1
+print(f"The {K}th day is: {days[day_number]}")
+
+
+# problem 28
+K = int(input("Write a number between 1-365: "))
+N = int(input("Write a number between 1-7: "))
+days = ["", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+day_number = ((K + N - 2) % 7) + 1
+print(f"The {K}th day is: {days[day_number]}")
+
+
+# problem 29
+A = int(input("Enter a positive number A: "))
+B = int(input("Enter a positive number B: "))
+C = int(input("Enter a positive number C: "))
+
+square_A_side = A // C
+square_B_side = B // C
+
+total_squares = square_A_side * square_B_side
+remaining_space = (A * B) - total_squares
+print(f"Maximum possible squares: {total_squares}")
+print(f"Unused part: {remaining_space}")
+
+
+
+# problem 30
+Y = int(input("Enter a year: "))
+century = ((Y - 1) // 100) + 1
+
+print(f"This year is in {century}th century.")
