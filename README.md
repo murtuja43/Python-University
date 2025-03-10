@@ -29,3 +29,7 @@
 
 <h1>Case Questions (1-30)</h1>
 <h3>Solved the questions [1:20:4] </h2>
+<img width="709" alt="Screenshot 2025-03-10 at 3 30 22 PM" src="https://github.com/user-attachments/assets/a8051267-f9f6-4191-b69e-1364290b00ee" />
+<img width="709" alt="Screenshot 2025-03-10 at 3 30 36 PM" src="https://github.com/user-attachments/assets/83517555-ffba-488b-8f8a-1786c1ecd6e1" />
+
+
