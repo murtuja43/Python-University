@@ -27,3 +27,5 @@
 <img width="705" alt="Screenshot 2025-03-01 at 13 17 56" src="https://github.com/user-attachments/assets/b4b24f43-e4b1-4a0c-abd7-ba2aa3986cb1" />
 
 
+<h1>Case Questions (1-30)</h1>
+<h3>Solved the questions [1:20:4] </h2>
