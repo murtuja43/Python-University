@@ -38,4 +38,6 @@
 
 <h1>Class test-1 (4 problems to solve)</h1>
 <h3>Solved the questions</h2>
+<img width="730" alt="Screenshot 2025-04-09 at 12 18 01 PM" src="https://github.com/user-attachments/assets/47051449-5772-40c7-85e1-cfe9d6dd5b72" />
+<img width="730" alt="Screenshot 2025-04-09 at 12 18 48 PM" src="https://github.com/user-attachments/assets/2a768d3a-bc49-42bc-9224-4b19a5d670ea" />
 
