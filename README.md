@@ -35,3 +35,7 @@
 <h1>Test_01</h1>
 <p>Solve 4 Questions</p>
 <p>Solved 2, 4</p>
+
+<h1>Class test-1 (4 problems to solve)</h1>
+<h3>Solved the questions</h2>
+
