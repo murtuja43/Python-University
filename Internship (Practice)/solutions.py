@@ -23,3 +23,20 @@ print(f"Output: {sum_of_factors}")
 
 
 
+# Question-3
+
+word = input("Word? ").upper()
+n = int(input("N? "))
+
+# Step 1: Shift letters to the right
+shifted = word[-n:] + word[:-n]
+
+# Step 2: Shift letters forward in the alphabet
+encrypted = ""
+for letter in shifted:
+    position = ord(letter) - ord('A')  # Turn letter into a number (0–25)
+    new_position = (position + n) % 26
+    new_letter = chr(new_position + ord('A'))
+    encrypted += new_letter
+
+print("Output:", encrypted)
